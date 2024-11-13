@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Jun  3 18:04:04 2024
+# Process ID: 15944
+# Current directory: C:/Users/Stefii/OneDrive/Desktop/facultate/anul 1 sem 2/PSN/Sima_Stefania_b7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16804 C:\Users\Stefii\OneDrive\Desktop\facultate\anul 1 sem 2\PSN\Sima_Stefania_b7\Proiect.xpr
+# Log file: C:/Users/Stefii/OneDrive/Desktop/facultate/anul 1 sem 2/PSN/Sima_Stefania_b7/vivado.log
+# Journal file: C:/Users/Stefii/OneDrive/Desktop/facultate/anul 1 sem 2/PSN/Sima_Stefania_b7\vivado.jou
+# Running On: Stefi, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 8269 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Stefii/OneDrive/Desktop/facultate/anul 1 sem 2/PSN/Sima_Stefania_b7/Proiect.xpr}
+update_compile_order -fileset sources_1
